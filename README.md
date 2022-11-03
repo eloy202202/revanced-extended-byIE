@@ -16,9 +16,6 @@ MicroG app latest
 *Credits*
 
 *inotia00
-
-*Node.js
-
-*JDK
+*IE
 
 
