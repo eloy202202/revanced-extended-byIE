@@ -1,10 +1,6 @@
 # revanced-extended-byIE
 Revanced Extended All by IE.
 
-Juntos pela liberdade! (BR)
-
-Together for freedom! (EN).
-
 Revanced Extended Project 
 
 Original tool link: https://github.com/inotia00/rvx-builder/releases/
