@@ -3,8 +3,6 @@ Revanced Extended All by IE.
 
 Revanced Extended Project 
 
-Original tool link: *https://github.com/inotia00/rvx-builder*
-
 Revanced Extended app latest
 
 Revanced Extended Music ARM64 app latest
@@ -18,5 +16,7 @@ MicroG app latest
 *inotia00*
 
 *IE*
+
+*Original tool link: *https://github.com/inotia00/rvx-builder**
 
 
