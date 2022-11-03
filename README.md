@@ -19,7 +19,6 @@ MicroG app latest
 
 **reisxd* - Tool link: *https://github.com/reisxd/revanced-builder/**
 
-*IE*
 
 
 
