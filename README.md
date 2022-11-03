@@ -15,9 +15,9 @@ MicroG app latest
 
 **revanced* - Original **PROJECT**: *https://github.com/revanced**
 
-**reisxd* - Tool link: *https://github.com/reisxd/revanced-builder/**
-
 **inotia00* - Tool link: *https://github.com/inotia00/rvx-builder**
+
+**reisxd* - Tool link: *https://github.com/reisxd/revanced-builder/**
 
 
 
