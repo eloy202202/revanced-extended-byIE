@@ -13,3 +13,8 @@ Revanced Extended Music ARM-V7A app latest
 
 MicroG app latest
 
+Credits
+inotia00
+Node.js
+JDK
+
