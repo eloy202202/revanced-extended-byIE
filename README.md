@@ -13,9 +13,10 @@ Revanced Extended Music ARM-V7A app latest
 
 MicroG app latest
 
-*Credits*
+**Credits**
 
 *inotia00
+
 *IE
 
 
