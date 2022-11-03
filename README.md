@@ -3,7 +3,7 @@ Revanced Extended All by IE.
 
 Revanced Extended Project 
 
-Original tool link: https://github.com/inotia00/rvx-builder/releases/
+Original tool link: [https://github.com/inotia00/rvx-builder/releases/](https://github.com/inotia00/rvx-builder)
 
 Revanced Extended app latest
 
