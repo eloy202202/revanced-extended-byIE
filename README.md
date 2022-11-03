@@ -20,6 +20,7 @@ MicroG app latest
 **reisxd* - Tool link: *https://github.com/reisxd/revanced-builder/**
 
 Mirror: **https://bit.ly/3T4WeUv**
+Mirror: **https://bit.ly/3tg4UND**
 
 
 
