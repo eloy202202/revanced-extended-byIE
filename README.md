@@ -13,10 +13,10 @@ MicroG app latest
 
 **Credits**
 
-*inotia00*
+**inotia00* - Original tool link: *https://github.com/inotia00/rvx-builder**
 
 *IE*
 
-*Original tool link: *https://github.com/inotia00/rvx-builder**
+
 
 
