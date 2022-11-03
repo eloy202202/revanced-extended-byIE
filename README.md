@@ -15,8 +15,8 @@ MicroG app latest
 
 **Credits**
 
-*inotia00
+*inotia00*
 
-*IE
+*IE*
 
 
