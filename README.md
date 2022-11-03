@@ -14,6 +14,7 @@ MicroG app latest
 **Credits**
 
 **inotia00* - Original tool link: *https://github.com/inotia00/rvx-builder**
+**reisxd* - Original tool link: *https://github.com/reisxd/revanced-builder/**
 
 *IE*
 
