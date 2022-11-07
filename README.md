@@ -3,9 +3,9 @@
 **********************************
 **Revanced Extended app latest**
 
-**Revanced Extended Music ARM64-V8A app latest**
+**Revanced Extended Music ARM64-v8a app latest**
 
-**Revanced Extended Music ARM-V7A app latest**
+**Revanced Extended Music ARM-v7a app latest**
 
 **MicroG app latest**
 **********************************
