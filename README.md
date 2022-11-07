@@ -9,9 +9,9 @@
 
 **MicroG app latest**
 **********************************
-Mirror: **https://bit.ly/3E6QlSy**
+Mirror: **https://bit.ly/3WDGHOE**
 
-Mirror: **https://bit.ly/3Tdbu1A**
+Mirror: **https://bit.ly/3E6QlSy**
 
 Mirror: **https://bit.ly/3E50aQU**
 **********************************
