@@ -1,9 +1,7 @@
 **********************************
-# ReVanced Extended byIE
+# ReVanced Extended **byIE**
 **********************************
-ReVanced Extended byIE
-
-Revanced Extended Project 
+ReVanced Extended **byIE**
 
 Revanced Extended app latest
 
