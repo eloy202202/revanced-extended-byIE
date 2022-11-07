@@ -1,5 +1,7 @@
-# revanced-extended-byIE
-Revanced Extended All by IE.
+**********************************
+# ReVanced Extended byIE
+**********************************
+ReVanced Extended byIE
 
 Revanced Extended Project 
 
