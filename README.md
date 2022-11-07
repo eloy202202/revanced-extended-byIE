@@ -17,7 +17,7 @@ Mirror: **https://bit.ly/3E50aQU**
 **********************************
 **Credits**
 
-**revanced** - Original **PROJECT**: *https://github.com/revanced**
+**revanced** - Original **PROJECT**: **https://github.com/revanced**
 
 **inotia00** - Tool link: **https://github.com/inotia00/rvx-builder**
 
