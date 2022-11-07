@@ -1,8 +1,6 @@
 **********************************
 # ReVanced Extended **byIE**
 **********************************
-ReVanced Extended **byIE**
-
 **Revanced Extended app latest**
 
 **Revanced Extended Music ARM64-V8A app latest**
