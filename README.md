@@ -15,9 +15,9 @@
 **********************************
 **Credits**
 
-**[revanced](https://github.com/revanced)** **Original PROJECT**
+**Original PROJECT** - **[revanced](https://github.com/revanced)**
 
-**[inotia00](https://github.com/inotia00/rvx-builder)** **Tools**
+**Tools** - **[inotia00](https://github.com/inotia00/rvx-builder)**
 
-**[reisxd](https://github.com/reisxd/revanced-builder)** **Tools**
+**Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
