@@ -1,7 +1,7 @@
 **********************************
 
 **![Revanced](https://user-images.githubusercontent.com/117391822/200927177-c95fc402-dce9-430c-a0d6-f64b320f9fc3.png)**
-**![RevancedMusic](https://user-images.githubusercontent.com/117391822/200928638-0c017d5d-c22e-4fc3-8fa8-10a3b20afe2c.png)**
+**![RevancedMusic](https://user-images.githubusercontent.com/117391822/200929594-dc7d10ed-c9c0-4fa2-b638-36ade654fa5e.png)**
 **![MicroG](https://user-images.githubusercontent.com/117391822/200929284-d08c1aad-5b9c-4182-9b88-e64a72959afb.png)**
 
 **********************************
