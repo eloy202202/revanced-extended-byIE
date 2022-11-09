@@ -1,7 +1,7 @@
 **********************************
 
   **![Revanced](https://user-images.githubusercontent.com/117391822/200927177-c95fc402-dce9-430c-a0d6-f64b320f9fc3.png)**
-  ![ic_launcher_release](https://user-images.githubusercontent.com/117391822/200927895-48f81989-a98d-4f1d-8392-4b31966376a2.png)
+  **![ic_launcher_release](https://user-images.githubusercontent.com/117391822/200927895-48f81989-a98d-4f1d-8392-4b31966376a2.png)**
 
 
 **********************************
