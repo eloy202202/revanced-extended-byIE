@@ -11,7 +11,7 @@
 **********************************
 Mirror: **https://bit.ly/3WDGHOE**
 
-Mirror: **https://bit.ly/3UDuDvv**
+Mirror: **[Mirror](https://bit.ly/3G0paKw)**
 
 Mirror: **https://bit.ly/3E50aQU**
 **********************************
