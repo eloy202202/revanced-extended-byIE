@@ -1,5 +1,4 @@
-![Revanced](https://user-images.githubusercontent.com/117391822/200926950-2bd500c0-9678-46b0-8194-17de6958ebf4.png)
-
+![Revanced](https://user-images.githubusercontent.com/117391822/200927177-c95fc402-dce9-430c-a0d6-f64b320f9fc3.png)
 
 
 **********************************
