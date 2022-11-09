@@ -11,9 +11,11 @@
 **********************************
 Mirror: **https://bit.ly/3WDGHOE**
 
-Mirror: **[Mirror](https://bit.ly/3G0paKw)**
+**[Mirror:](https://sourceforge.net/projects/revancedextended-byie)**
 
-Mirror: **https://bit.ly/3E50aQU**
+**[Mirror3:](https://www.mediafire.com/folder/qimr3lkan2vma/RevancedExtended_byIE)**
+
+**[Mirror3:](https://archive.org/details/mtkspflashtool-latest_byIE)**
 **********************************
 **Credits**
 
