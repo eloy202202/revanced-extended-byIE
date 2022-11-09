@@ -9,21 +9,13 @@
 
 **MicroG app latest**
 **********************************
-**[Mirror1:](https://sourceforge.net/projects/revancedextended-byie)**
-
-**[Mirror2:](https://www.mediafire.com/folder/qimr3lkan2vma/RevancedExtended_byIE)**
-
-**[Mirror3:](https://archive.org/details/mtkspflashtool-latest_byIE)**
+**[Mirror1](https://sourceforge.net/projects/revancedextended-byie)**
+**[Mirror2](https://archive.org/details/mtkspflashtool-latest_byIE)**
+**[Mirror3](https://www.mediafire.com/folder/qimr3lkan2vma/RevancedExtended_byIE)**
 **********************************
 **Credits**
 
-**revanced** - **Original PROJECT**: **https://github.com/revanced**
-
-**inotia00** - Tool link: **https://github.com/inotia00/rvx-builder**
-
-**reisxd** - Tool link: **https://github.com/reisxd/revanced-builder/**
+**[revanced](https://github.com/revanced))** **Original PROJECT**
+**[inotia00](https://github.com/inotia00/rvx-builder)** ** Tool link**
+**[reisxd](https://github.com/reisxd/revanced-builder/))** ** Tool link**
 **********************************
-
-
-
-
