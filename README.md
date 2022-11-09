@@ -16,11 +16,11 @@
 
 **MicroG app latest**
 **********************************
-Mirror: ./https://bit.ly/3WDGHOE
+Mirror: https://bit.ly/3WDGHOE
 
-Mirror: ./https://bit.ly/3E6QlSy
+Mirror: https://bit.ly/3E6QlSy
 
-Mirror: ./https://bit.ly/3E50aQU
+Mirror: https://bit.ly/3E50aQU
 **********************************
 **Credits**
 
