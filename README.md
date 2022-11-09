@@ -10,7 +10,7 @@
 **MicroG app latest**
 **********************************
 **[Mirror1](https://sourceforge.net/projects/revancedextended-byie)**
-**[Mirror2](https://archive.org/details/mtkspflashtool-latest_byIE)**
+**[Mirror2](https://archive.org/details/revancedextended-all-latest_ByIE)**
 **[Mirror3](https://www.mediafire.com/folder/qimr3lkan2vma/RevancedExtended_byIE)**
 **********************************
 **Credits**
