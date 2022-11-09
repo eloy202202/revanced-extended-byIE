@@ -8,8 +8,6 @@
 **Revanced Extended Music ARM-v7a (32 bits) app latest**
 
 **MicroG app latest**
-
-**Revanced Extended apps-extras latest**
 **********************************
 Mirror: **https://bit.ly/3WDGHOE**
 
