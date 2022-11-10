@@ -1,6 +1,6 @@
 **********************************
 
-**![Revanced](https://user-images.githubusercontent.com/117391822/201011465-354aa83e-d0c8-45e6-88dc-1b910321e44e.png)**
+**![Revanced](https://user-images.githubusercontent.com/117391822/201011583-f9330a96-f96f-4534-849f-9c30e7a252b9.png)**
 **![Music](https://user-images.githubusercontent.com/117391822/201011176-5b9d08ca-a291-48f5-88e8-33ad56c15ccf.png)**
 **![MicroG](https://user-images.githubusercontent.com/117391822/200929864-b37daf61-9e1d-4572-ac7c-14f47c7d6754.png)**
 
