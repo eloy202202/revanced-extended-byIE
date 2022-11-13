@@ -16,7 +16,7 @@
 **MicroG app latest**
 **********************************
 **[*Mirror1](https://sourceforge.net/projects/revancedextended-byie)**
-**[*Mirror2](https://archive.org/details/revancedextended-all-latest_ByIE)**
+**[*Mirror2](https://archive.org/details/revancedextended-all-latest-byie)**
 **[*Mirror3](https://www.mediafire.com/folder/qimr3lkan2vma/RevancedExtended_byIE)**
 **********************************
 **Credits**
