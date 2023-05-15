@@ -30,7 +30,7 @@
 ***Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
 [Donate](https://liberapay.com/eloy202202)
-[Donate R$50](https://buy.stripe.com/cN2g0m3je1798tWeUU)
+[Donate2](https://buy.stripe.com/cN2g0m3je1798tWeUU)
 **********************************
 
 
