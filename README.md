@@ -29,7 +29,7 @@
 
 ***Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
-![Donation-PNG-Photo (2) (1)](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/321b478b-1afd-4cb7-aa8c-4c3c874822b7) ![donate (1) (1)](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/3c6b1727-cc51-4336-afab-c89ae9d5d25b)
+![Donation-PNG-Photo (2) (1)](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/321b478b-1afd-4cb7-aa8c-4c3c874822b7)
 
 [Donate](https://liberapay.com/eloy202202) [Donate2](https://buy.stripe.com/cN2g0m3je1798tWeUU)
 **********************************
