@@ -29,6 +29,7 @@
 
 ***Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
+![donate](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/652a9505-79d8-41d5-9816-6944b4d4ac76)
 [Donate](https://liberapay.com/eloy202202)
 [Donate2](https://buy.stripe.com/cN2g0m3je1798tWeUU)
 **********************************
