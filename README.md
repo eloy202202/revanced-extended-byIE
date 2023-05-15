@@ -29,7 +29,7 @@
 
 ***Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
-[Doações](https://liberapay.com/eloy202202)
+[Donate](https://liberapay.com/eloy202202)
 
 
 
