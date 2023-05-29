@@ -29,9 +29,9 @@
 
 ***Official PROJECT** - **[revanced](https://github.com/revanced)**
 
-***Tools** - **[inotia00](https://github.com/inotia00/rvx-builder)**
+***inotia00 - Extended** - **[inotia00](https://github.com/inotia00/rvx-builder)**
 
-***Tools** - **[reisxd](https://github.com/reisxd/revanced-builder)**
+***reisxd - ReVanced** - **[reisxd](https://github.com/reisxd/revanced-builder)**
 **********************************
 
 
