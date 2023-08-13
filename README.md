@@ -25,6 +25,7 @@
 [*Donate1](https://buy.stripe.com/cN2g0m3je1798tWeUU) [*Donate2](https://liberapay.com/eloy202202)
 **********************************
 **Thank you!**
+
 ReVanced Team!
 **********************************
 
