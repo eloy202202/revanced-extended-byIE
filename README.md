@@ -20,7 +20,7 @@
 **********************************
 **[*Mirror1](https://sourceforge.net/projects/revancedextended-byie/)**
 **[*Mirror2](https://archive.org/details/revancedextended-all-latest-byie)**
-**[*Mirror3](https://www.mediafire.com/folder/a1m4prk90v8ox/ReVanced_ByIE)**
+**[*Mirror3](https://www.mediafire.com/folder/86g80c32p7gk6/ReVanced-ByIE)**
 **********************************
  ![donate](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/df40db50-de0a-453f-a1fc-6956e15535a0)
 
