@@ -14,11 +14,11 @@
 
 **Revanced Extended Music ARM-v7a (32 bits) app latest**
 
-**MicroG app latest**
+**ReVanced MicroG app latest**
 
-**Reddit (Extras) app latest**
+**ReVanced Extended Reddit (Extras) app latest**
 **********************************
-**[*Mirror1](https://sourceforge.net/projects/revancedextended-byie/)**
+**[*Mirror1](https://revanced-extended-byie.sourceforge.io)**
 **[*Mirror2](https://archive.org/details/revancedextended-all-latest-byie)**
 **[*Mirror3](https://www.mediafire.com/folder/86g80c32p7gk6/ReVanced-ByIE)**
 **********************************
