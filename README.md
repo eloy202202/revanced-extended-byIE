@@ -24,7 +24,7 @@
 **********************************
  ![donate](https://github.com/eloy202202/revanced-extended-byIE/assets/117391822/df40db50-de0a-453f-a1fc-6956e15535a0)
 
-[[*Donate](https://liberapay.com/eloy202202)
+[*Donate](https://liberapay.com/eloy202202)
 **********************************
 **Thank you!**
 
